@@ -84,3 +84,5 @@ Button(root,text="Set Alarm",font=("Helvetica 15"),command=Threading).pack(pady=
 
 # Execute Tkinter
 root.mainloop()
+
+print("This was an python project...")
